@@ -1,4 +1,4 @@
-# ejercicio-matriz-java
+# Ejercicio matriz java
 
 Permite mostrar en un cuadro números aleatorios de la matriz 6 x 6 y muestra:
 
